@@ -1,7 +1,0 @@
-[
-    {
-        "title": "работа",
-        "deadline": "1",
-        "done": false
-    }
-]
